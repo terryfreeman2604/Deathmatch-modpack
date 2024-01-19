@@ -1,0 +1,29 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\portal\portal\materials
+Loading D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\maps\eeeeeeee.vmf
+Could not locate gameinfo.txt for Instance Remapping at gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+material "skybox/sky_day01_01rt" not found.
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+
+
+
+2 threads
+reading d:\steamlibrary\steamapps\common\garrysmod\garrysmod\maps\eeeeeeee.bsp
+Error opening d:\steamlibrary\steamapps\common\garrysmod\garrysmod\maps\eeeeeeee.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\SourceSDK\bin\source2009\bin\lights.rad.
+Loading d:\steamlibrary\steamapps\common\garrysmod\garrysmod\maps\eeeeeeee.bsp
+Error opening d:\steamlibrary\steamapps\common\garrysmod\garrysmod\maps\eeeeeeee.bsp
